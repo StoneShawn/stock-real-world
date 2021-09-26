@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">api</string>
+    <string name="title_stock_api">Module Title</string>
+    <string name="title_stockapi">stockApi</string>
+</resources>

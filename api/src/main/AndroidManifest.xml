@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="d.ishigishou.api">
+
+    <application>
+        <service
+            android:name=".MyIntentService"
+            android:exported="false"></service>
+    </application>
+
+</manifest>
